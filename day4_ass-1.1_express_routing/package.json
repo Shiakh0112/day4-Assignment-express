@@ -1,0 +1,20 @@
+{
+  "name": "day4_ass-1.1_express_routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Routing.js",
+    "dev": "nodemon Routing.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
